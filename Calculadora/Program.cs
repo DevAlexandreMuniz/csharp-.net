@@ -158,7 +158,7 @@ static void Divisao()
     Console.WriteLine("|----------------------------|");
     Console.WriteLine("|    Digite os valores que   |");
     Console.WriteLine("|    deseja dividir          |");
-    Console.WriteLine("|           ᕙ(⇀‸↼)ᕗ          |");
+    Console.WriteLine("|          ᕙ(⇀‸↼)ᕗ          |");
     Console.WriteLine("|                            |");
     Console.WriteLine("|____________________________|");
     Console.WriteLine("");
