@@ -217,11 +217,11 @@ static void Vaimesmo()
     Console.WriteLine("|----------------------------|");
     Console.WriteLine("|         Vai mesmo?         |");
     Console.WriteLine("|----------------------------|");
-    Console.WriteLine("|            ( ಥ_ಥ)            |");
+    Console.WriteLine("|           ( ಥ_ಥ)           |");
     Console.WriteLine("|                            |");
     Console.WriteLine("|   Me dá mais uma chance?   |");
     Console.WriteLine("|                            |");
-    Console.WriteLine("|  1 - Já decidi  2 - Tá bom |");
+    Console.WriteLine("| 1 - Já decidi   2 - Tá bom |");
     Console.WriteLine("|____________________________|");
 
     short confirmacao = short.Parse(Console.ReadLine());
