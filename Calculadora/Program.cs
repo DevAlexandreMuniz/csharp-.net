@@ -217,7 +217,7 @@ static void Vaimesmo()
     Console.WriteLine("|----------------------------|");
     Console.WriteLine("|         Vai mesmo?         |");
     Console.WriteLine("|----------------------------|");
-    Console.WriteLine("|           ಥ﹏ಥ             |");
+    Console.WriteLine("|             ಥ_ಥ             |");
     Console.WriteLine("|                            |");
     Console.WriteLine("|   Me dá mais uma chance?   |");
     Console.WriteLine("|                            |");
