@@ -1,6 +1,5 @@
 ﻿//Menu
 
-
 static void Soma()
 {
     Console.Clear();
@@ -45,10 +44,36 @@ static void Subtracao()
 
 static void Divisao()
 {
+    Console.Clear();
 
+    Console.WriteLine("Adicionar primeiro valor:");
+    float v1 = float.Parse(Console.ReadLine());
+
+    Console.WriteLine("Adicionar segundo valor:");
+    float v2 = float.Parse(Console.ReadLine());
+    Console.WriteLine("");
+
+    float resultado = v1 / v2;
+
+    Console.WriteLine($"O resultado da divisão dos valores é {resultado}");
+
+    Console.ReadKey();
 }
 
 static void Multiplicacao()
 {
+    Console.Clear();
 
+    Console.WriteLine("Adicionar primeiro valor:");
+    float v1 = float.Parse(Console.ReadLine());
+
+    Console.WriteLine("Adicionar segundo valor:");
+    float v2 = float.Parse(Console.ReadLine());
+    Console.WriteLine("");
+
+    float resultado = v1 * v2;
+
+    Console.WriteLine($"O resultdo da multiplicação dos valores é {resultado}");
+
+    Console.ReadKey();
 }
