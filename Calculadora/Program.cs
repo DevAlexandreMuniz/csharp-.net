@@ -3,6 +3,7 @@
 static void Menu()
 {
     Console.Clear();
+
     Console.WriteLine(" ____________________________ ");
     Console.WriteLine("|----------------------------|");
     Console.WriteLine("|        CALCULADORA         |");
