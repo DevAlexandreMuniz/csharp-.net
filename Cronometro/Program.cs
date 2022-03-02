@@ -35,7 +35,20 @@ static void Menu()
         System.Environment.Exit(0);
 
     //Chamando o contador.
-    Iniciar(tempo * multiplicador);
+    PreIniciar(tempo * multiplicador);
+}
+
+static void PreIniciar(int tempo)
+{
+    Console.Clear();
+    Console.WriteLine("Preparar...");
+    Thread.Sleep(1000);
+    Console.WriteLine("Apontar...");
+    Thread.Sleep(1000);
+    Console.WriteLine("Fogo!");
+    Thread.Sleep(2000);
+
+    Iniciar(tempo);
 }
 
 static void Iniciar(int tempo)
