@@ -1,0 +1,15 @@
+/home/monkeydl/Documentos/GitHub/csharp-.net/Cronometro/bin/Debug/net6.0/Cronometro
+/home/monkeydl/Documentos/GitHub/csharp-.net/Cronometro/bin/Debug/net6.0/Cronometro.deps.json
+/home/monkeydl/Documentos/GitHub/csharp-.net/Cronometro/bin/Debug/net6.0/Cronometro.runtimeconfig.json
+/home/monkeydl/Documentos/GitHub/csharp-.net/Cronometro/bin/Debug/net6.0/Cronometro.dll
+/home/monkeydl/Documentos/GitHub/csharp-.net/Cronometro/bin/Debug/net6.0/Cronometro.pdb
+/home/monkeydl/Documentos/GitHub/csharp-.net/Cronometro/obj/Debug/net6.0/Cronometro.csproj.AssemblyReference.cache
+/home/monkeydl/Documentos/GitHub/csharp-.net/Cronometro/obj/Debug/net6.0/Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+/home/monkeydl/Documentos/GitHub/csharp-.net/Cronometro/obj/Debug/net6.0/Cronometro.AssemblyInfoInputs.cache
+/home/monkeydl/Documentos/GitHub/csharp-.net/Cronometro/obj/Debug/net6.0/Cronometro.AssemblyInfo.cs
+/home/monkeydl/Documentos/GitHub/csharp-.net/Cronometro/obj/Debug/net6.0/Cronometro.csproj.CoreCompileInputs.cache
+/home/monkeydl/Documentos/GitHub/csharp-.net/Cronometro/obj/Debug/net6.0/Cronometro.dll
+/home/monkeydl/Documentos/GitHub/csharp-.net/Cronometro/obj/Debug/net6.0/refint/Cronometro.dll
+/home/monkeydl/Documentos/GitHub/csharp-.net/Cronometro/obj/Debug/net6.0/Cronometro.pdb
+/home/monkeydl/Documentos/GitHub/csharp-.net/Cronometro/obj/Debug/net6.0/Cronometro.genruntimeconfig.cache
+/home/monkeydl/Documentos/GitHub/csharp-.net/Cronometro/obj/Debug/net6.0/ref/Cronometro.dll
