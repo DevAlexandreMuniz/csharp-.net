@@ -36,8 +36,7 @@ static void Iniciar(int tempo)
 
         //pausa o programa temporariamente.
         Thread.Sleep(1000);
-        Console.WriteLine("Cronômetro finalizado");
-        Thread.Sleep(2500);
-        Menu();
     }
+    Console.WriteLine("Cronômetro finalizado");
+    Thread.Sleep(2500);
 }
