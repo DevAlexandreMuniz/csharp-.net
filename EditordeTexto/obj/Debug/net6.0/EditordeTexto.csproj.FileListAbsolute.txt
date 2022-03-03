@@ -1,0 +1,15 @@
+/home/monkeydl/Documentos/GitHub/csharp-.net/EditordeTexto/obj/Debug/net6.0/EditordeTexto.csproj.AssemblyReference.cache
+/home/monkeydl/Documentos/GitHub/csharp-.net/EditordeTexto/obj/Debug/net6.0/EditordeTexto.GeneratedMSBuildEditorConfig.editorconfig
+/home/monkeydl/Documentos/GitHub/csharp-.net/EditordeTexto/obj/Debug/net6.0/EditordeTexto.AssemblyInfoInputs.cache
+/home/monkeydl/Documentos/GitHub/csharp-.net/EditordeTexto/obj/Debug/net6.0/EditordeTexto.AssemblyInfo.cs
+/home/monkeydl/Documentos/GitHub/csharp-.net/EditordeTexto/obj/Debug/net6.0/EditordeTexto.csproj.CoreCompileInputs.cache
+/home/monkeydl/Documentos/GitHub/csharp-.net/EditordeTexto/bin/Debug/net6.0/EditordeTexto
+/home/monkeydl/Documentos/GitHub/csharp-.net/EditordeTexto/bin/Debug/net6.0/EditordeTexto.deps.json
+/home/monkeydl/Documentos/GitHub/csharp-.net/EditordeTexto/bin/Debug/net6.0/EditordeTexto.runtimeconfig.json
+/home/monkeydl/Documentos/GitHub/csharp-.net/EditordeTexto/bin/Debug/net6.0/EditordeTexto.dll
+/home/monkeydl/Documentos/GitHub/csharp-.net/EditordeTexto/bin/Debug/net6.0/EditordeTexto.pdb
+/home/monkeydl/Documentos/GitHub/csharp-.net/EditordeTexto/obj/Debug/net6.0/EditordeTexto.dll
+/home/monkeydl/Documentos/GitHub/csharp-.net/EditordeTexto/obj/Debug/net6.0/refint/EditordeTexto.dll
+/home/monkeydl/Documentos/GitHub/csharp-.net/EditordeTexto/obj/Debug/net6.0/EditordeTexto.pdb
+/home/monkeydl/Documentos/GitHub/csharp-.net/EditordeTexto/obj/Debug/net6.0/EditordeTexto.genruntimeconfig.cache
+/home/monkeydl/Documentos/GitHub/csharp-.net/EditordeTexto/obj/Debug/net6.0/ref/EditordeTexto.dll
