@@ -4,11 +4,20 @@ Menu();
 static void Menu()
 {
     Console.Clear();
-    Console.WriteLine("Bem vindo a cronômetro");
-    Console.WriteLine("S = Segundo => 10s => 10 Segundos");
-    Console.WriteLine("M = Minuto => 1m => 1 Minuto");
-    Console.WriteLine("0 = Sair");
-    Console.WriteLine("Escolha uma opção");
+    Console.WriteLine(" ____________________________ ");
+    Console.WriteLine("|----------------------------|");
+    Console.WriteLine("|         CRONÔMETRO         |");
+    Console.WriteLine("|----------------------------|");
+    Console.WriteLine("|    Escreva até quanto      |");
+    Console.WriteLine("|    deseja contar e use:    |");
+    Console.WriteLine("|                            |");
+    Console.WriteLine("|        （っ＾▿＾）          |");
+    Console.WriteLine("|                            |");
+    Console.WriteLine("|    S - para segundos       |");
+    Console.WriteLine("|    M - para minutos        |");
+    Console.WriteLine("|                            |");
+    Console.WriteLine("|    0s - para Sair          |");
+    Console.WriteLine("|____________________________|");
 
     //Coleta os dados escolhidos pelo usuário e converte para minúsculas.
     string dado = Console.ReadLine().ToLower();
