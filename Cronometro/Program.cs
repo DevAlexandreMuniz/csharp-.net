@@ -11,10 +11,11 @@ static void Menu()
     Console.WriteLine("|    Escreva até quanto      |");
     Console.WriteLine("|    deseja contar e use:    |");
     Console.WriteLine("|                            |");
-    Console.WriteLine("|        （っ＾▿＾）          |");
+    Console.WriteLine("|        （っ＾▿＾）         |");
     Console.WriteLine("|                            |");
     Console.WriteLine("|    S - para segundos       |");
     Console.WriteLine("|    M - para minutos        |");
+    Console.WriteLine("|    Ex: 10s                 |");
     Console.WriteLine("|                            |");
     Console.WriteLine("|    0s - para Sair          |");
     Console.WriteLine("|____________________________|");
@@ -41,7 +42,7 @@ static void Menu()
 
     //Se o usuário escolher 0 o programa será encerrado.
     if (tempo == 0)
-        System.Environment.Exit(0);
+        Sair();
 
     //Chamando o contador.
     PreIniciar(tempo * multiplicador);
@@ -77,4 +78,23 @@ static void Iniciar(int tempo)
     Console.WriteLine("Cronômetro finalizado");
     Thread.Sleep(2500);
     Menu();
+}
+
+static void Sair()
+{
+    Console.Clear();
+
+    Console.WriteLine(" ____________________________ ");
+    Console.WriteLine("|----------------------------|");
+    Console.WriteLine("|       MUITO OBRIGADO       |");
+    Console.WriteLine("|----------------------------|");
+    Console.WriteLine("|  O tempo é uma das coisas  |");
+    Console.WriteLine("|  mais importantes em       |");
+    Console.WriteLine("|  nossas vidas, conte       |");
+    Console.WriteLine("|  comigo para ajudá-lo      |");
+    Console.WriteLine("|  a contar os segundos.     |");
+    Console.WriteLine("|                            |");
+    Console.WriteLine("|         (⊃｡•́‿•̀｡)⊃          |");
+    Console.WriteLine("|____________________________|");
+    System.Environment.Exit(0);
 }
