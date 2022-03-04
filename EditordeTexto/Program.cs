@@ -27,5 +27,22 @@ static void Abrir()
 
 static void Editar()
 {
+    Console.Clear();
+    Console.WriteLine("Digite seu texto aqui (Precione ESC para encerrar).");
+    Console.WriteLine("---------------------------------------------------");
 
+    //Aqui será armazenado o texto que o usuário digitar
+    string texto = "";
+
+    //Enquanto o texto digitado for diferente de ESC, o laço será repetido.
+    do
+    {
+        texto += Console.ReadLine();
+
+        //Para fazer a quebra de linha
+        texto += Environment.NewLine;
+    }
+    while (Console.ReadKey().Key != ConsoleKey.Escape);
+
+    Console.Write(texto);
 }
