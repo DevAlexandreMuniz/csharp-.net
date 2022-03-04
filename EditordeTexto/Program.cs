@@ -1,4 +1,6 @@
-﻿Menu();
+﻿using System.IO;
+
+Menu();
 
 static void Menu()
 {
@@ -45,4 +47,17 @@ static void Editar()
     while (Console.ReadKey().Key != ConsoleKey.Escape);
 
     Console.Write(texto);
+}
+
+static void Salvar()
+{
+    Console.Clear();
+    Console.WriteLine("Qual caminho você deseja salvar o arquivo?");
+    var caminho = Console.ReadLine();
+
+    //Abre e fecha o arquivo
+    using (var arquivo = new StreamWriter(caminho))
+    {
+        arquivo.Write(texto);
+    }
 }
