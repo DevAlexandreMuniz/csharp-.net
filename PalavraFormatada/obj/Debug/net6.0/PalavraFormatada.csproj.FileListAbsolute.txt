@@ -1,0 +1,15 @@
+/home/monkeydl/Documentos/PalavraFormatada/bin/Debug/net6.0/PalavraFormatada
+/home/monkeydl/Documentos/PalavraFormatada/bin/Debug/net6.0/PalavraFormatada.deps.json
+/home/monkeydl/Documentos/PalavraFormatada/bin/Debug/net6.0/PalavraFormatada.runtimeconfig.json
+/home/monkeydl/Documentos/PalavraFormatada/bin/Debug/net6.0/PalavraFormatada.dll
+/home/monkeydl/Documentos/PalavraFormatada/bin/Debug/net6.0/PalavraFormatada.pdb
+/home/monkeydl/Documentos/PalavraFormatada/obj/Debug/net6.0/PalavraFormatada.csproj.AssemblyReference.cache
+/home/monkeydl/Documentos/PalavraFormatada/obj/Debug/net6.0/PalavraFormatada.GeneratedMSBuildEditorConfig.editorconfig
+/home/monkeydl/Documentos/PalavraFormatada/obj/Debug/net6.0/PalavraFormatada.AssemblyInfoInputs.cache
+/home/monkeydl/Documentos/PalavraFormatada/obj/Debug/net6.0/PalavraFormatada.AssemblyInfo.cs
+/home/monkeydl/Documentos/PalavraFormatada/obj/Debug/net6.0/PalavraFormatada.csproj.CoreCompileInputs.cache
+/home/monkeydl/Documentos/PalavraFormatada/obj/Debug/net6.0/PalavraFormatada.dll
+/home/monkeydl/Documentos/PalavraFormatada/obj/Debug/net6.0/refint/PalavraFormatada.dll
+/home/monkeydl/Documentos/PalavraFormatada/obj/Debug/net6.0/PalavraFormatada.pdb
+/home/monkeydl/Documentos/PalavraFormatada/obj/Debug/net6.0/PalavraFormatada.genruntimeconfig.cache
+/home/monkeydl/Documentos/PalavraFormatada/obj/Debug/net6.0/ref/PalavraFormatada.dll
