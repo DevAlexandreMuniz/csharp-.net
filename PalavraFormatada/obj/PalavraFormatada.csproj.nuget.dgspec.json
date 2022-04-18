@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/monkeydl/Documentos/PalavraFormatada/PalavraFormatada.csproj": {}
+    "/home/darknight/Documentos/GitHub/csharp-.net/PalavraFormatada/PalavraFormatada.csproj": {}
   },
   "projects": {
-    "/home/monkeydl/Documentos/PalavraFormatada/PalavraFormatada.csproj": {
+    "/home/darknight/Documentos/GitHub/csharp-.net/PalavraFormatada/PalavraFormatada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/monkeydl/Documentos/PalavraFormatada/PalavraFormatada.csproj",
+        "projectUniqueName": "/home/darknight/Documentos/GitHub/csharp-.net/PalavraFormatada/PalavraFormatada.csproj",
         "projectName": "PalavraFormatada",
-        "projectPath": "/home/monkeydl/Documentos/PalavraFormatada/PalavraFormatada.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/home/monkeydl/Documentos/PalavraFormatada/obj/",
+        "projectPath": "/home/darknight/Documentos/GitHub/csharp-.net/PalavraFormatada/PalavraFormatada.csproj",
+        "packagesPath": "/home/darknight/.nuget/packages/",
+        "outputPath": "/home/darknight/Documentos/GitHub/csharp-.net/PalavraFormatada/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/darknight/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

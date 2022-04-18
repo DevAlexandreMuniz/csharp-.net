@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/monkeydl/Documentos/GitHub/csharp-.net/EditordeTexto/EditordeTexto.csproj": {}
+    "/home/darknight/Documentos/GitHub/csharp-.net/EditordeTexto/EditordeTexto.csproj": {}
   },
   "projects": {
-    "/home/monkeydl/Documentos/GitHub/csharp-.net/EditordeTexto/EditordeTexto.csproj": {
+    "/home/darknight/Documentos/GitHub/csharp-.net/EditordeTexto/EditordeTexto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/monkeydl/Documentos/GitHub/csharp-.net/EditordeTexto/EditordeTexto.csproj",
+        "projectUniqueName": "/home/darknight/Documentos/GitHub/csharp-.net/EditordeTexto/EditordeTexto.csproj",
         "projectName": "EditordeTexto",
-        "projectPath": "/home/monkeydl/Documentos/GitHub/csharp-.net/EditordeTexto/EditordeTexto.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/home/monkeydl/Documentos/GitHub/csharp-.net/EditordeTexto/obj/",
+        "projectPath": "/home/darknight/Documentos/GitHub/csharp-.net/EditordeTexto/EditordeTexto.csproj",
+        "packagesPath": "/home/darknight/.nuget/packages/",
+        "outputPath": "/home/darknight/Documentos/GitHub/csharp-.net/EditordeTexto/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/darknight/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
