@@ -1,5 +1,7 @@
-public static class Menu{
-    public static void Exposicao(){
+public static class Menu
+{
+    public static void Exposicao()
+    {
         Console.Clear();
         Console.BackgroundColor = ConsoleColor.Blue;
         Console.ForegroundColor = ConsoleColor.Black;
@@ -8,8 +10,10 @@ public static class Menu{
         EscreverOpcoes();
 
         var opcao = short.Parse(Console.ReadLine());
+        ManipularOpcoesMenu(opcao);
     }
-    public static void DesnharLinha(){
+    public static void DesnharLinha()
+    {
         Console.Write("+");
         for (int i=0; i <= 30; i++)
             Console.Write("-");
@@ -17,7 +21,8 @@ public static class Menu{
         Console.Write("+");
         Console.Write("\n");
     }
-    public static void DesnharColuna(){
+    public static void DesnharColuna()
+    {
         for (int linha=0; linha <=10; linha ++){
             Console.Write("|");
             for (int i=0; i <= 30; i++)
@@ -28,13 +33,15 @@ public static class Menu{
         }   
     }
 
-    public static void  DesenharTela(){
+    public static void  DesenharTela()
+    {
         DesnharLinha();
         DesnharColuna();
         DesnharLinha();
     }
 
-    public static void EscreverOpcoes(){
+    public static void EscreverOpcoes()
+    {
         Console.SetCursorPosition(3,2);
         Console.WriteLine("Editor HTML");
         Console.SetCursorPosition(3,3);
@@ -50,5 +57,19 @@ public static class Menu{
         Console.SetCursorPosition(3,10);
         Console.Write("Opção: ");
     }
-}
 
+    public static void ManipularOpcoesMenu(short opcao)
+    {
+        switch(opcao) {
+            case 1: Console.WriteLine("Editor"); break;
+            case 2: Console.WriteLine("Visualizar"); break;
+            case 0: {
+                Console.Clear();
+                Environment.Exit(0);
+                break;
+            }
+            default: Exposicao();break;
+        }
+    }
+
+}
