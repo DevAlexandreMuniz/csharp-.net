@@ -10,11 +10,11 @@
         "projectUniqueName": "/home/darknight/Documentos/GitHub/csharp-.net/EditorHtml/EditorHtml.csproj",
         "projectName": "EditorHtml",
         "projectPath": "/home/darknight/Documentos/GitHub/csharp-.net/EditorHtml/EditorHtml.csproj",
-        "packagesPath": "/home/darknight/.nuget/packages/",
+        "packagesPath": "/root/.nuget/packages/",
         "outputPath": "/home/darknight/Documentos/GitHub/csharp-.net/EditorHtml/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/darknight/.nuget/NuGet/NuGet.Config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
