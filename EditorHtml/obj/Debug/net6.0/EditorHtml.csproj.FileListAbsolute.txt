@@ -1,0 +1,15 @@
+/home/darknight/Documentos/GitHub/csharp-.net/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.AssemblyReference.cache
+/home/darknight/Documentos/GitHub/csharp-.net/EditorHtml/obj/Debug/net6.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/home/darknight/Documentos/GitHub/csharp-.net/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfoInputs.cache
+/home/darknight/Documentos/GitHub/csharp-.net/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfo.cs
+/home/darknight/Documentos/GitHub/csharp-.net/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.CoreCompileInputs.cache
+/home/darknight/Documentos/GitHub/csharp-.net/EditorHtml/bin/Debug/net6.0/EditorHtml
+/home/darknight/Documentos/GitHub/csharp-.net/EditorHtml/bin/Debug/net6.0/EditorHtml.deps.json
+/home/darknight/Documentos/GitHub/csharp-.net/EditorHtml/bin/Debug/net6.0/EditorHtml.runtimeconfig.json
+/home/darknight/Documentos/GitHub/csharp-.net/EditorHtml/bin/Debug/net6.0/EditorHtml.dll
+/home/darknight/Documentos/GitHub/csharp-.net/EditorHtml/bin/Debug/net6.0/EditorHtml.pdb
+/home/darknight/Documentos/GitHub/csharp-.net/EditorHtml/obj/Debug/net6.0/EditorHtml.dll
+/home/darknight/Documentos/GitHub/csharp-.net/EditorHtml/obj/Debug/net6.0/refint/EditorHtml.dll
+/home/darknight/Documentos/GitHub/csharp-.net/EditorHtml/obj/Debug/net6.0/EditorHtml.pdb
+/home/darknight/Documentos/GitHub/csharp-.net/EditorHtml/obj/Debug/net6.0/EditorHtml.genruntimeconfig.cache
+/home/darknight/Documentos/GitHub/csharp-.net/EditorHtml/obj/Debug/net6.0/ref/EditorHtml.dll
