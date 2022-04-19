@@ -32,14 +32,12 @@ public static class Menu
             Console.Write("\n");
         }   
     }
-
     public static void  DesenharTela()
     {
         DesnharLinha();
         DesnharColuna();
         DesnharLinha();
     }
-
     public static void EscreverOpcoes()
     {
         Console.SetCursorPosition(3,2);
@@ -57,11 +55,10 @@ public static class Menu
         Console.SetCursorPosition(3,10);
         Console.Write("Opção: ");
     }
-
     public static void ManipularOpcoesMenu(short opcao)
     {
         switch(opcao) {
-            case 1: Console.WriteLine("Editor"); break;
+            case 1: Editor.Exposicao(); break;
             case 2: Console.WriteLine("Visualizar"); break;
             case 0: {
                 Console.Clear();
@@ -71,5 +68,4 @@ public static class Menu
             default: Exposicao();break;
         }
     }
-
 }
