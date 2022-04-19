@@ -1,1 +1,1 @@
-﻿Menu.Show();
+﻿Menu.Exposicao();

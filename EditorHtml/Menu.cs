@@ -1,10 +1,13 @@
 public static class Menu{
-    public static void Show(){
+    public static void Exposicao(){
         Console.Clear();
         Console.BackgroundColor = ConsoleColor.Blue;
         Console.ForegroundColor = ConsoleColor.Black;
 
-        DrawnScreen();
+        DesenharTela();
+        EscreverOpcoes();
+
+        var opcao = short.Parse(Console.ReadLine());
     }
     public static void DesnharLinha(){
         Console.Write("+");
@@ -25,10 +28,27 @@ public static class Menu{
         }   
     }
 
-    public static void  DrawnScreen(){
+    public static void  DesenharTela(){
         DesnharLinha();
         DesnharColuna();
         DesnharLinha();
+    }
+
+    public static void EscreverOpcoes(){
+        Console.SetCursorPosition(3,2);
+        Console.WriteLine("Editor HTML");
+        Console.SetCursorPosition(3,3);
+        Console.WriteLine("===========");
+        Console.SetCursorPosition(3,4);
+        Console.WriteLine("Selecione uma opção abaixo");
+        Console.SetCursorPosition(3,6);
+        Console.WriteLine("1 - Novo arquivo");
+        Console.SetCursorPosition(3,7);
+        Console.WriteLine("2 - Abrir um arquivo");
+        Console.SetCursorPosition(3,9);
+        Console.WriteLine("0 - Sair");
+        Console.SetCursorPosition(3,10);
+        Console.Write("Opção: ");
     }
 }
 
