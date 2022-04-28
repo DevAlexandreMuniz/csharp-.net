@@ -23,6 +23,7 @@ public static class Editor
 
         Console.WriteLine("-----------");
         Console.WriteLine("Deseja savar o arquivo?");
+        Viewer.Exposicao(arquivo.ToString());
     }
 
 }
